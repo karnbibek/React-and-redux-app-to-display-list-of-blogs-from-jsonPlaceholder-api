@@ -1,4 +1,4 @@
-Simple React app to fetch list of blogs from an api and display the result using semantic-ui library
+Simple React + Redux app to fetch list of blogs from an api and display the result using semantic-ui library
 
 # Getting Started with Create React App
 
